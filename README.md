@@ -1,24 +1,29 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Krida
 
-Submitted by: **Your Name Here**
+Submitted by: Harshana Reddy Gillala
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Krida is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 7 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [✓] The introduction section explains the background of the company and how many games remain unfunded.
+* [✓] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [✓] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [✓] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [✓] Added a navbar to the header of the website with two sections: "Stats" and "Our Game." This allows users to navigate directly to these sections without scrolling.
+* [✓] Added box shadow to the header of the website to improve visual depth and separation from the rest of the page.
+* [✓] Updated the font color of webiste name.
+* [✓] Updated the styles of the buttons ("Show Unfunded Only," "Show Funded Only," and "Show All Games") to change appearance on hover.
+* [✓] Modified the styles of the game cards so that they are enlarged by 10% when hovered over.
 
+      
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
